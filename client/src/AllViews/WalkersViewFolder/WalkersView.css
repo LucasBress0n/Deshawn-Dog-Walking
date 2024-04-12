@@ -1,0 +1,13 @@
+.WalkersView-walkercontainer {
+  display: flex;
+  margin: 2% 10% 0px 10%;
+  justify-content: space-around;
+}
+
+.WalkerView-walkerInfo {
+  border: 1px solid black;
+}
+
+.WalkerView-linkandbtn {
+  display: flex;
+}

@@ -1,0 +1,6 @@
+.CitiesView-MainContainer {
+  margin: 2% 10% 0px 10%;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+}
