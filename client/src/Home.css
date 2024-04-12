@@ -1,0 +1,10 @@
+.HomeView-AllDogsContainer {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+  margin: 2% 10% 0px 10%;
+}
+
+.HomeView-DogContainerBox {
+  border: 1px solid black;
+}
